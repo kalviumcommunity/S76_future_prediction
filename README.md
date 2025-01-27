@@ -35,3 +35,6 @@ Real-world and speculative applications of future technologies:
 
 This exploration aims to inspire innovative thinking and prepare us for the extraordinary possibilities ahead.
 
+
+## Set up dev environment 
+In this i created package.js file i

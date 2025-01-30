@@ -38,3 +38,5 @@ This exploration aims to inspire innovative thinking and prepare us for the extr
 
 ## Set up dev environment 
 In this i created package.js file i
+
+https://s76-future-prediction.onrender.com/ping
